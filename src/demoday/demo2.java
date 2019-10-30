@@ -14,6 +14,7 @@ public class demo2 {
         HashMap<String,String> map = new HashMap<>();
         map.put("Aa","www");
         map.put("BB","www");
+        //rgre
 
         Set<Map.Entry<String, String>> entrySet = map.entrySet();
         System.out.println(entrySet);
